@@ -15,14 +15,6 @@ python3 Q1.py
 ```
 Press any button to make the drone appear. The buttons shown below correspond to the Cartesian directions.
 
-Moving around:
-q    w    e
-a    *    d
-z    x    c
-Up/Down
-2 - UP
-s - DOWN
-
 ```
 python3 Q1_triangle.py
 ```
