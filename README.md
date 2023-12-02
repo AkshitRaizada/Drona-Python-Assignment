@@ -31,7 +31,8 @@ I have provided another file for question 1 which demonstrates the working of th
 Click the window to exit the program.
 
 ### Images
-hi
+![Q1_output_1](https://github.com/AkshitRaizada/Drona-Python-Assignment/blob/main/Q1_output_1.png)
+![Q1_output_2](https://github.com/AkshitRaizada/Drona-Python-Assignment/blob/main/Q1_output_2.png)
 
 ## Problem Statement 2
 
@@ -54,5 +55,5 @@ python3 Q2_sender.py
 Type your message in Q2_sender.py's terminal and it should be received on the other terminal. Type e to exit.
 
 ### Images
-
-HI
+![Q2_output_1](https://github.com/AkshitRaizada/Drona-Python-Assignment/blob/main/Q2_output_1.png)
+![Q2_error_handling](https://github.com/AkshitRaizada/Drona-Python-Assignment/blob/main/Q2_error_handling.png)
